@@ -1,0 +1,17 @@
+body {
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.my-name {
+  font-family: "Bad Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.footer-left {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
